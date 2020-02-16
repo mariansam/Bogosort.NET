@@ -2,7 +2,7 @@
 The best sorting algorithm in C#!
 
 # Installation
-This should be available as a NuGet package ASAP!
+The package is available on NuGet - https://www.nuget.org/packages/Bogosort.NET
 
 # Usage
 The usage of this package is pretty straight-forward. Here is an example.
